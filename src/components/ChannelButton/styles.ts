@@ -39,9 +39,6 @@ export const Container = styled.div`
         display: inline;
       }
   }
-
- 
-
 `;
 
 export const HashtagIcon = styled(Hashtag)`
